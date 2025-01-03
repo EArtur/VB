@@ -3,8 +3,8 @@
  Windows Forms
 
 *O que usamos:
-   vb.net
-   arquivo.xml
+   vb.net,
+   arquivo.xml,
    arquivo.txt  
 
 *Carrega lista de arquivos .xml de um diretório
